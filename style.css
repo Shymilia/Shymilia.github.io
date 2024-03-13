@@ -23,12 +23,14 @@ div {
     100% {opacity:0; width: 100px; height:300px;}
 
 }
-
+body{
+    background-color: grey;   
+}
 img {
     width:400px;
     height:300px;
     animation-name: jerma;
-    animation-duration:5s;
+    animation-duration:2s;
     animation-iteration-count: infinite;
 
 }
