@@ -30,7 +30,7 @@ img {
     width:400px;
     height:300px;
     animation-name: jerma;
-    animation-duration:2s;
+    animation-duration:0.4s;
     animation-iteration-count: infinite;
 
 }
